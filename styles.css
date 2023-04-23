@@ -2,7 +2,7 @@ body{
     background-color: #4FA8E0;
 }
 h1{
-    color: #43E0C8;
+    color: #FAC483;
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
@@ -14,12 +14,13 @@ h2{
     text-align:center;
 }
 h3{
-    color: #43E0C8;
+    color: black;
+    font-size: 24px;
     text-align:center;
 }
 h4{
     color: white;
-    font-size: 36px;
+    font-size: 48px;
     text-align:center;
 }
 p{
@@ -36,7 +37,7 @@ p3{
     font-size: 48px;
 }
 a{    
-    color: #43E0C8;
+    color: black;
     border: 5px solid white;
     font-size: 48px;
     text-align: center;
