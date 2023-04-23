@@ -1,34 +1,45 @@
 body{
-    background-color: #c9e0f2;
+    background-color: #4FA8E0;
 }
 h1{
-    color: #074D8C;
-    font-size: 48px;
-    font-family: 'Courier New', Courier, monospace;
-}
-h2{
-    color: #074D8C;
+    color: #43E0C8;
     font-size: 48px;
     font-family: 'Courier New', Courier, monospace;
     text-align:center;
 }
+h2{
+    color: #FAC483;
+    font-size: 36px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align:center;
+}
+h3{
+    color: #43E0C8;
+    text-align:center;
+}
+h4{
+    color: white;
+    font-size: 36px;
+    text-align:center;
+}
 p{
-    color: #80340D;
+    color: #5037DE;
     margin-top: 1em;
     margin-bottom: 2em;
 }
 p2{
-   
+    color: #5037DE;
     font-size: 20px;
 }
 p3{
     color: black;
     font-size: 48px;
 }
-a {font-size: 48px}
 a{    
-color: rgb(239, 27, 8);
-border: 5px solid white;
+    color: #43E0C8;
+    border: 5px solid white;
+    font-size: 48px;
+    text-align: center;
 }
 a2{    
     color: blue;
@@ -88,7 +99,7 @@ a2{
 }
 
 .nav-link-wrapper a {
-    color: black;
+    color: #FAC483;
     text-decoration: none;
     transition: color 0.5s;
 }
@@ -193,5 +204,4 @@ button{
 }
 .review-box:hover{
     transform: translateY(-10px);
-    transition: all ease 0;
 }
