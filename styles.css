@@ -83,8 +83,6 @@ a2{
 
 .nav-link-wrapper {
     height: 32px;
-    border-bottom: 2px solid transparent;
-    transition: border-bottom 0.5s;
 }
 
 .nav-link-wrapper a {
