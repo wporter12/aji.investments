@@ -105,6 +105,12 @@ a2{
     transition: color 0.5s;
 }
 
+.nav-link-wrapper1 {
+    color: black;
+    text-decoration: none;
+    transition: color 0.5s;
+}
+
 button{
     background: #074D8C;
     width: 100px;
