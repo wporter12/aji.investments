@@ -28,7 +28,6 @@ p3{
 a {font-size: 48px}
 a{    
 color: rgb(28, 46, 88);
-border: 5px solid white;
 }
 a2{    
     color: red;
@@ -83,6 +82,8 @@ a2{
 
 .nav-link-wrapper {
     height: 32px;
+    border-bottom: 2px solid transparent;
+    transition: border-bottom 0.5s;
 }
 
 .nav-link-wrapper a {
